@@ -1,6 +1,6 @@
 h1. Wikipedia
 
-!https://badge.fury.io/rb/wikipedia-client.svg!:https://badge.fury.io/rb/wikipedia-client !https://travis-ci.org/kenpratt/wikipedia-client.svg?branch=master!:https://travis-ci.org/kenpratt/wikipedia-client
+!https://badge.fury.io/rb/wikipedia-client.svg!:https://badge.fury.io/rb/wikipedia-client !https://travis-ci.org/harman28/wikipedia-client.svg?branch=master!:https://travis-ci.org/harman28/wikipedia-client
 
 Allows you to get wikipedia content through their API. This uses the
 alpha API, not the deprecated query.php API type
@@ -106,7 +106,7 @@ h2. Contributing
 
 h3. Getting the code, and running the tests
 
-<pre><code>git clone git@github.com:kenpratt/wikipedia-client.git
+<pre><code>git clone git@github.com:harman28/wikipedia-client.git
 cd wikipedia-client
 gem install bundler
 bundle exec rake spec</code></pre>
